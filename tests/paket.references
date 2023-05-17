@@ -1,0 +1,5 @@
+Microsoft.Data.Sqlite
+Expecto
+YoloDev.Expecto.TestSdk
+Microsoft.NET.Test.Sdk
+FSharp.Core
